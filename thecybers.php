@@ -98,7 +98,7 @@ if(!isset($_SESSION[md5($_SERVER['HTTP_HOST'])]))
 <?php
 /*
 	By: The Cybers Team
-	Versão: Beta 0.5
+	Versão: Beta 0.6
 	[ok] listar
 	[ok] visualizar
 	[ok] download
