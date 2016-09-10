@@ -1,8 +1,8 @@
 # Shell
 
 Content:
--       By: The Cybers Team
--	Versão: Beta 0.6
+   By: The Cybers Team
+   Versão: Beta 0.6
 -	[ok] listar
 -	[ok] visualizar
 -	[ok] download
