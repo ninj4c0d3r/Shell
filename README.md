@@ -2,7 +2,7 @@
 
 Content:
    By: The Cybers Team
-   Versão: Beta 0.6
+   Versão: Beta 0.9
 -	[ok] listar
 -	[ok] visualizar
 -	[ok] download
@@ -13,4 +13,4 @@ Content:
 -	[ok] Ip Lookup Domain
 -	[ok] Find Directory Writable/Readable
 -	[ok] Remove LOG
-
+-	[ok] Config Grabber
