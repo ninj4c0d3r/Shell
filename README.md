@@ -2,7 +2,7 @@
 
 Content:
    By: The Cybers Team
-   Versão: Beta 0.9
+   Versão: 1.0
 -	[ok] listar
 -	[ok] visualizar
 -	[ok] download
@@ -14,3 +14,10 @@ Content:
 -	[ok] Find Directory Writable/Readable
 -	[ok] Remove LOG
 -	[ok] Config Grabber
+-	[ok] Mass Deface Dirs
+-	[ok] Mass Change Admin Joomla
+-	[ok] Mass Change Admin vBulletin
+-	[ok] Mass Change Admin Mass WordPress
+-	[ok] Wordpress & Joomla Mass Deface
+-	[ok] Wordpress Hijack Index Priv8
+-	[ok] Cpanel & Ftp Auto Defacer
